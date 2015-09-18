@@ -15,15 +15,11 @@ Introduction to a PHP framework call **Laravel 5.1**
 
 Work covered so far:
 
-00-Laravel and Required Software - 2015
-
-01-Installing Laravel 5.1 on Xampp - 2015
-
-Did not complete 02 and 03 (optional)
-
-04-Laravel 5.1 Directory Structure - 2015
-
-05-Creating a Git Repository - 2015
+1. 00-Laravel and Required Software - 2015
+2. 01-Installing Laravel 5.1 on Xampp - 2015
+3. Did not complete 02 and 03 (optional)
+4. 04-Laravel 5.1 Directory Structure - 2015
+5. 05-Creating a Git Repository - 2015
 
 
 ### License
